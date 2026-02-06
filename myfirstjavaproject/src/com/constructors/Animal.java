@@ -10,6 +10,8 @@ public class Animal {
 	Animal() {
 		this(4, "Chicho");
 		System.out.println("no arg constructor called ");
+		System.out.println("no arg constructor called ");
+		System.out.println("no arg constructor called ");
 	}
 
 	Animal(String breed) {
